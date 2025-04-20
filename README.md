@@ -1,5 +1,7 @@
 ## Resource Renaming Script Configuration
 
+This code is JS, which is specific to nestjs, so you can type `'node rename-resource.js'` in your terminal. 
+
 ### Required Variables
 
 This script requires you to set 4 configuration variables at the top of the file:
