@@ -1,6 +1,6 @@
 ## Resource Renaming Script Configuration
 
-This code is `JS`, which is specific to `NestJS(TS)`, so you can type `'node rename-resource.js'` in your terminal. 
+This is code written in `JS` for TS, which is specific to `NestJS`, so you can type `'node rename-resource.js'` in your terminal. 
 
 ### Required Variables
 
